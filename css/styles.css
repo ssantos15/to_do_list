@@ -1,0 +1,12 @@
+.to {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.to:hover {
+  text-decoration: underline;
+}
+
+#list{
+list-style-type: none;
+}
